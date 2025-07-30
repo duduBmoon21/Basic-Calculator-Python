@@ -6,11 +6,11 @@ A simple **command-line calculator** built for a Python introductory assignment.
 
 ## 🚀 Features
 
-* ✅ Addition, Subtraction, Multiplication, Division
-* ✅ Handles invalid input gracefully
-* ✅ Prevents division by zero errors
-* ✅ Displays results in a clean equation format with aligned output
-* ✅ Includes detailed docstrings and comments for clarity
+✅ Addition, Subtraction, Multiplication, Division
+✅ Handles invalid input gracefully
+✅ Prevents division by zero errors
+✅ Displays results in a clean equation format with aligned output
+✅ Includes detailed docstrings and comments for clarity
 
 ---
 
